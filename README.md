@@ -10,38 +10,23 @@ J’y ai progressivement évolué d’un rôle de **stagiaire frontend** vers un
 
 J’ai également réalisé des projets académiques et personnels touchant au déploiement d’applications, aux systèmes embarqués, à la vision par ordinateur et à l'algorithmique.
 
-## Ce que je fais actuellement
+## Ce que je fais actuellement comme projet ?
 
-Présentement, je travaille sur deux projets principaux : **AUTOLANDER** et **Book Haven API**.
+Présentement, je travaille sur deux projets principaux : Avion-Cargo Autolander et Book Haven Bookstore.
 
-### AUTOLANDER
+### Avion-Cargo Autolander
 
 **AUTOLANDER** est un système de précision d’atterrissage pour drone basé sur la vision par ordinateur.  
 Le projet utilise **OpenCV**, **ArUco**, **MAVLink**, **Gazebo**, **SITL** et **QGroundControl** afin de détecter une cible d’atterrissage, estimer sa position et transmettre les informations nécessaires au contrôleur de vol.
 
-Ce projet me permet d’explorer :
-
-- la vision par ordinateur ;
-- l’estimation de pose avec des marqueurs ArUco ;
-- la communication avec un contrôleur de vol via MAVLink ;
-- la simulation de drone avec Gazebo et SITL ;
-- l’architecture logicielle en couches ;
-- le traitement vidéo en temps réel.
+> :information_source: Pour en savoir plus, rendez vous sur le dépôt du [Avion-Cargo Autolander](https://github.com/cia-ulaval/avion-cargo) et le site du [CIA](https://cia.ift.ulaval.ca/avion-cargo)
 
 ### Book Haven API
 
-**Book Haven API** est une API backend pour une application de gestion de livres, de clients et de commandes.  
+**Book Haven API** est une API backend pour une boutique fictive de ventes de livres en ligne.  
 Le projet est développé avec **Python**, **Flask**, **MongoDB**, **Docker**, **Pytest** et **GitHub Actions**.
 
-Ce projet me permet de travailler sur :
-
-- la conception d’une API REST ;
-- l’organisation d’un backend selon une architecture claire ;
-- la persistance des données avec MongoDB ;
-- les tests automatisés ;
-- la conteneurisation avec Docker ;
-- l’intégration continue avec GitHub Actions.
-
+> :information_source: Pour en savoir plus, rendez vous sur le dépôt [Book Haven Backend](https://github.com/bertrand-awz/book-haven-backend)
 
 ## Comment me joindre ?
 
