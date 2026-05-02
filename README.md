@@ -30,7 +30,9 @@ Le projet est développé avec **Python**, **Flask**, **MongoDB**, **Docker**, *
 
 ## Technologies utilisées dans mes travaux et statistiques personnels sur Github
 
+<img alt="my stats" src="https://github-readme-stats-five-lyart-87.vercel.app/api?username=bertrand-awz&show_icons=true"/>
 
+![Top Langs](https://github-readme-stats-five-lyart-87.vercel.app/api/top-langs/?username=bertrand-awz&layout=compact)
 
 
 ## Comment me joindre?
