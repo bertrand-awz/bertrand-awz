@@ -10,7 +10,7 @@ J’y ai progressivement évolué d’un rôle de **stagiaire frontend** vers un
 
 J’ai également réalisé des projets académiques et personnels touchant au déploiement d’applications, aux systèmes embarqués, à la vision par ordinateur et à l'algorithmique.
 
-## Ce que je fais actuellement comme projet ?
+## Ce que je fais actuellement comme projet?
 
 Présentement, je travaille sur deux projets principaux : Avion-Cargo Autolander et Book Haven Bookstore.
 
@@ -28,7 +28,12 @@ Le projet est développé avec **Python**, **Flask**, **MongoDB**, **Docker**, *
 
 > :information_source: Pour en savoir plus, rendez vous sur le dépôt [Book Haven Backend](https://github.com/bertrand-awz/book-haven-backend)
 
-## Comment me joindre ?
+## Technologies utilisées dans mes travaux et statistiques personnels sur Github
+
+
+
+
+## Comment me joindre?
 
 Vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/bertrand-awenze-34018522a/).
 
