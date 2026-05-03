@@ -30,10 +30,23 @@ Le projet est développé avec **Python**, **Flask**, **MongoDB**, **Docker**, *
 
 ## Technologies utilisées dans mes travaux et résumé de mes constributions sur Github
 
-<div align="center">
-  <img alt="my stats" src="https://github-readme-stats-bertrand-awz9600-5i7gxf2h.leapcell.dev/api?username=bertrand-awz&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent"/>
-  <img alt="Top Langs" src="https://github-readme-stats-bertrand-awz9600-5i7gxf2h.leapcell.dev/api/top-langs/?username=bertrand-awz&layout=pie&langs_count=8&theme=transparent"/>
-</div>
+<div align="center" style="margin-bottom:4rem;">
+  <img
+    alt="Bertrand Awenze's GitHub Stats"
+    width="50%"
+    align="left"
+    src="https://github-readme-stats-bertrand-awz9600-szvdb6d9.leapcell.dev/api?username=bertrand-awz&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"
+  />
+  <img
+    alt="Bertrand Awenze's Top Languages"
+    width="41.5%"
+    src="https://github-readme-stats-bertrand-awz9600-szvdb6d9.leapcell.dev/api/top-langs/?username=bertrand-awz&layout=compact&langs_count=8&theme=transparent"
+  />
+</div>  
+
+
+    
+
 
 ## Comment me joindre?
 
