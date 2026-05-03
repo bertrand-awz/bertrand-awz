@@ -28,12 +28,12 @@ Le projet est développé avec **Python**, **Flask**, **MongoDB**, **Docker**, *
 
 > :information_source: Pour en savoir plus, rendez vous sur le dépôt [Book Haven Backend](https://github.com/bertrand-awz/book-haven-backend)
 
-## Technologies utilisées dans mes travaux et statistiques personnels sur Github
+## Technologies utilisées dans mes travaux et résumé de mes constributions sur Github
 
-<img alt="my stats" src="https://github-readme-stats-bertrand-awz9600-5i7gxf2h.leapcell.dev/api?username=bertrand-awz&show_icons=true"/>
-
-![Top Langs](https://github-readme-stats-bertrand-awz9600-5i7gxf2h.leapcell.dev/api/top-langs/?username=bertrand-awz&layout=compact)
-
+<div align="center">
+  <img alt="my stats" src="https://github-readme-stats-bertrand-awz9600-5i7gxf2h.leapcell.dev/api?username=bertrand-awz&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent"/>
+  <img alt="Top Langs" src="https://github-readme-stats-bertrand-awz9600-5i7gxf2h.leapcell.dev/api/top-langs/?username=bertrand-awz&layout=pie&langs_count=8&theme=transparent"/>
+</div>
 
 ## Comment me joindre?
 
