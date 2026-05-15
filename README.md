@@ -12,21 +12,15 @@ J’ai également réalisé des projets académiques et personnels touchant au d
 
 ## Ce que je fais actuellement comme projet?
 
-Présentement, je travaille sur deux projets principaux : Avion-Cargo Autolander et Book Haven Bookstore.
+Je travaille présentement sur le projet : Avion-Cargo Autolander
 
 ### Avion-Cargo Autolander
 
-**AUTOLANDER** est un système de précision d’atterrissage pour drone basé sur la vision par ordinateur.  
+**AUTOLANDER** est un système d'atterrissage de précision pour drone basé sur la vision par ordinateur.  
 Le projet utilise **OpenCV**, **ArUco**, **MAVLink**, **Gazebo**, **SITL** et **QGroundControl** afin de détecter une cible d’atterrissage, estimer sa position et transmettre les informations nécessaires au contrôleur de vol.
 
 > :information_source: Pour en savoir plus, rendez vous sur le dépôt du [Avion-Cargo Autolander](https://github.com/cia-ulaval/avion-cargo) et le site du [CIA](https://cia.ift.ulaval.ca/avion-cargo)
 
-### Book Haven Bookstore
-
-**Book Haven API** est une API backend pour une boutique fictive de ventes de livres en ligne.  
-Le projet est développé avec **Python**, **Flask**, **MongoDB**, **Docker**, **Pytest** et **GitHub Actions**.
-
-> :information_source: Pour en savoir plus, rendez vous sur le dépôt [Book Haven Backend](https://github.com/bertrand-awz/book-haven-backend)
 
 ## Technologies utilisées dans mes travaux et résumé de mes constributions sur Github
 
