@@ -1,6 +1,6 @@
 ## Bonjour 👋
 
-Je suis **Bertrand Awenze**, développeur logiciel et finissant au baccalauréat en informatique à l' Université Laval (diplomation prévue le 31 mai 2026).
+Je suis **Bertrand Awenze**, développeur logiciel ayant fini en baccalauréat en informatique à l' Université Laval.
 
 Je m’intéresse principalement au développement backend, à l' architecture logicielle, à l’intégration et au déploiement continus.  
 Dans mes heures perdues, je fais soit du bénévelat, soit des contributions aux projets open-source ou aux projets étudiants du [Club d'Intelligence Artificielle](https://cia.ift.ulaval.ca/) de l'Université Laval dont je suis membre.
