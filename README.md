@@ -1,51 +1,9 @@
 ## Bonjour 👋
 
-Je suis **Bertrand Awenze**, développeur logiciel ayant fini en baccalauréat en informatique à l' Université Laval.
+Je suis **Bertrand Awenze**, développeur logiciel diplômé en informatique de l’Université Laval.
 
-Je m’intéresse principalement au développement backend, à l' architecture logicielle, à l’intégration et au déploiement continus.  
-Dans mes heures perdues, je fais soit du bénévelat, soit des contributions aux projets open-source ou aux projets étudiants du [Club d'Intelligence Artificielle](https://cia.ift.ulaval.ca/) de l'Université Laval dont je suis membre.
+Mon expérience la plus récente était dans un rôle de **développeur full-stack**, où j’ai travaillé sur différents aspects du développement logiciel.
 
-Au cours de mon parcours universitaire, j’ai effectué trois stages ainsi que huit mois de travail étudiant au **Ministère de la Cybersécurité et du Numérique**. 
-J’y ai progressivement évolué d’un rôle de **stagiaire frontend** vers un rôle de **développeur full-stack**, en contribuant à des projets liés aux applications web, aux API REST, à l’authentification et à la sécurité applicative.
+Pour en savoir plus sur mon parcours, mes projets et les technologies avec lesquelles je travaille, je vous invite à consulter mon portfolio :
 
-J’ai également réalisé des projets académiques et personnels touchant au déploiement d’applications, aux systèmes embarqués, à la vision par ordinateur et à l'algorithmique.
-
-## Ce que je fais actuellement comme projet?
-
-Je travaille présentement sur le projet : Avion-Cargo Autolander
-
-### Avion-Cargo Autolander
-
-**AUTOLANDER** est un système d'atterrissage de précision pour drone basé sur la vision par ordinateur.  
-Le projet utilise **OpenCV**, **ArUco**, **MAVLink**, **Gazebo**, **SITL** et **QGroundControl** afin de détecter une cible d’atterrissage, estimer sa position et transmettre les informations nécessaires au contrôleur de vol.
-
-> :information_source: Pour en savoir plus, rendez vous sur le dépôt du [Avion-Cargo Autolander](https://github.com/cia-ulaval/avion-cargo) et le site du [CIA](https://cia.ift.ulaval.ca/avion-cargo)
-
-
-## Technologies utilisées dans mes travaux et résumé de mes constributions sur Github
-
-<div align="center" style="margin-bottom:4rem;">
-  <img
-    alt="Bertrand Awenze's GitHub Stats"
-    width="50%"
-    align="left"
-    src="https://github-readme-stats-bertrand-awz9600-szvdb6d9.leapcell.dev/api?username=bertrand-awz&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"
-  />
-  <img
-    alt="Bertrand Awenze's Top Languages"
-    width="41.5%"
-    src="https://github-readme-stats-bertrand-awz9600-szvdb6d9.leapcell.dev/api/top-langs/?username=bertrand-awz&layout=compact&langs_count=8&theme=transparent"
-  />
-</div>  
-
-
-    
-
-
-## Comment me joindre?
-
-Vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/bertrand-awenze-34018522a/).
-
-Si vous avez reçu mon CV, vous pouvez également m’écrire par courriel ou me contacter aux coordonnées qui y figurent.
-
-Je serais ravi de discuter avec vous.
+[https://bertawz.dev](https://bertawz.dev)
