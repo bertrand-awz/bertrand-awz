@@ -1,9 +1,11 @@
 ## Bonjour 👋
 
-Je suis **Bertrand Awenze**, développeur logiciel diplômé en informatique de l’Université Laval.
+Bienvenue sur mon profil GitHub !
 
-Mon expérience la plus récente était dans un rôle de **développeur full-stack**, où j’ai travaillé sur différents aspects du développement logiciel.
+Je m’appelle Bertrand Awenze.  
+Pour découvrir les projets auxquels j’ai contribué et ceux sur lesquels je travaille actuellement, consultez mon [portfolio](https://bertawz.dev/fr).
 
-Pour en savoir plus sur mon parcours, mes projets et les technologies avec lesquelles je travaille, je vous invite à consulter mon portfolio :
+## Hi 👋
 
-[https://bertawz.dev](https://bertawz.dev)
+My name is Bertrand Awenze.  
+To explore the projects I’ve contributed to and those I’m currently working on, check out my [portfolio](https://bertawz.dev/en).
